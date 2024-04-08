@@ -158,11 +158,7 @@ button[type="submit"].btn-primary {
 
 
 
-@media (max-width: 576px) {
-    .nav-tabs .nav-item {
-        width: 50%;
-    }
-}
+
 
 .about-us-content {
     animation-name: fadeIn;
@@ -638,6 +634,7 @@ button[type="submit"].btn-primary {
 
         .chart-support {
             display: flex;
+            margin-bottom:30px;
             flex-direction: column;
             align-items: center;
             justify-content: space-around;
